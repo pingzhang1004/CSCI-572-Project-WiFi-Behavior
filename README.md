@@ -17,6 +17,5 @@
 ##### Propagation loss models: Friis Propagation Loss Model
 ##### MAC Layer Protocol: The MAC type :AdhocWifiMac. This means the nodes will communicate in a peer-to-peer manner without relying on an access point.
 ##### Routing Protocol: AODV (Ad hoc On-Demand Distance Vector) is used as the routing protocol for the nodes.
-##### In the Figure, it appears that Node 1 is communicating with Node 2 and Node 2 is communicating with Node 3 simultaneously.Radii around Nodes: The circles around each node likely represent the communication range or the transmission range of the nodes. If another node is within this circle, it can directly communicate with the node.
 
 
