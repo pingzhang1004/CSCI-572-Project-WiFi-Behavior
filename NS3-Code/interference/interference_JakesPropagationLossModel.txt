@@ -1,0 +1,25 @@
+Waf: Entering directory `/home/huang/ns-3-allinone/ns-3.35/build'
+Waf: Leaving directory `/home/huang/ns-3-allinone/ns-3.35/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (0.422s)
+Throughput =2.88229Kbps
+Waf: Entering directory `/home/huang/ns-3-allinone/ns-3.35/build'
+Waf: Leaving directory `/home/huang/ns-3-allinone/ns-3.35/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (0.421s)
+Throughput =35.4096Kbps
+Waf: Entering directory `/home/huang/ns-3-allinone/ns-3.35/build'
+Waf: Leaving directory `/home/huang/ns-3-allinone/ns-3.35/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (0.392s)
+Throughput =2.88229Kbps
+Waf: Entering directory `/home/huang/ns-3-allinone/ns-3.35/build'
+Waf: Leaving directory `/home/huang/ns-3-allinone/ns-3.35/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (0.429s)
+Throughput =2.88229Kbps
+Waf: Entering directory `/home/huang/ns-3-allinone/ns-3.35/build'
+Waf: Leaving directory `/home/huang/ns-3-allinone/ns-3.35/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (0.413s)
+Throughput =23.7323Kbps
