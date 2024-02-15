@@ -1,6 +1,6 @@
 # Analysis of Network Behavior
 ###### * Using C++ programming language on NS-3 Platform
-#### 1.Developed and analyzed two network topologies on the NS-3 Platform to address hidden and exposed terminal issues
+#### 1.Developed and analyzed two network topologies on the NS-3 Platform to address hidden, exposed and interference terminal issues
 #### 2.Monitored and recorded RTS/CTS/ACK signals and data transmission times, elucidating WiFi’s MAC protocol solutions for these challenges
 #### 3.Measured route acquisition latency variations under the AODV protocol at differing node speeds on NS-3, providing insights into network efficiency and reliability.
 #### The animation is visualizing a scenario in which nodes communicate in an ad-hoc manner using the AODV routing protocol, and the RTS/CTS mechanism is in use to exposed terminal problems.
